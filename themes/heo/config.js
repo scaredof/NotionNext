@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'XZY-BLOG.TOP',
-  HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '',
+  HEO_HERO_TITLE_4: '123',
+  HEO_HERO_TITLE_5: '456',
   HEO_HERO_TITLE_LINK: 'https://www.xzy-blog.top',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -35,7 +35,7 @@ const CONFIG = {
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
-    HERO_RECOMMEND_COVER: 'https://raw.githubusercontent.com/scaredof/image/refs/heads/main/picture.jpg', // 英雄区右侧图片
+    // HERO_RECOMMEND_COVER: 'https://raw.githubusercontent.com/scaredof/image/refs/heads/main/picture.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
