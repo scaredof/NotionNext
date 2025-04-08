@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'XZY-BLOG.TOP',
-  HEO_HERO_TITLE_4: '123',
-  HEO_HERO_TITLE_5: '456',
+  HEO_HERO_TITLE_4: '',
+  HEO_HERO_TITLE_5: '',
   HEO_HERO_TITLE_LINK: 'https://www.xzy-blog.top',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
